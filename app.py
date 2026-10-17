@@ -606,7 +606,7 @@ if start_clicked:
 
         def on_stage(stage: str):
             if stage not in STAGE_ORDER:
-                return
+                return 
             idx = STAGE_ORDER.index(stage)
             for i, s in enumerate(STAGE_ORDER):
                 if i < idx:
