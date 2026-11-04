@@ -56,13 +56,6 @@ STAGE_INFO = {
     },
 }
 
-EXAMPLE_TOPICS = [
-    "Generative AI in Healthcare",
-    "Future of AI Agents",
-    "Quantum Computing",
-    "AI in Cybersecurity",
-]
-
 # ---------------------------------------------------------------------------
 # Session state
 # ---------------------------------------------------------------------------
